@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+p{
+    margin: 0.5rem;
+}
+
+section{
+    border: 0.1rem solid black;
+    width: 30%;
+    margin: 1rem;
+}

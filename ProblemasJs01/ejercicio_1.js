@@ -16,5 +16,4 @@ let empleados=['empleado1', 'empleado2', 'empleado3'];
 //console.log(clientes);
 
 //Por lo tanto la mejor forma de realizar la tarea es CONCAT, pued no modifica el arreglo original
-s
 
